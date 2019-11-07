@@ -1,0 +1,9 @@
+.pic {
+    max-width: 200px;
+    height: auto;
+    margin: 0.5rem;
+}
+
+.pictures {
+    display: flex;
+}
